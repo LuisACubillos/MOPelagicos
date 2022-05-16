@@ -27,6 +27,9 @@ OP3: La dinámica del reclutamiento considera una relación stock-recluta del ti
 
 OP4: Cambios de régimen en el reclutamiento, según dos estados determinados con la técnica Hidden Markov Model.
 
+![Ejemplo de aplicación de EEM para evaluar la estrategia de explotación monoespecífica en pesquerías de peces pelágicos pequeños](MOpelagicos_EsquemaTrabajo.png)
+
+
 * __Anchoveta (Atacama-Coquimbo):__
 
 __Carpeta: Anzcn2020.__ Contiene el modelo de evaluación de stock o estimador (Est1), donde se identifican tres archivos: MATT2009.tpl (plantilla de código ADMB), MATT2009_real.data (respaldo de los datos utilizados en la evaluación), y control_est.ctl que contiene el control de la estimación. A modo de ejemplo, MATT2009.dat contiene los últimos datos simulados por el modelo operativo. Además, están los códigos de los modelos operativos en las carpetas OP1, OP2, y OP3, con los resultados obtenidos de la aplicación EEM.
