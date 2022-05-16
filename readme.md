@@ -27,7 +27,7 @@ OP3: La dinámica del reclutamiento considera una relación stock-recluta del ti
 
 OP4: Cambios de régimen en el reclutamiento, según dos estados determinados con la técnica Hidden Markov Model.
 
-![](MOpelagicos_EsquemaTrabajo.png)
+![](https://github.com/LuisACubillos/MOPelagicos/blob/master/MOPelagicos_EsquemaTrabajo.png)
 
 
 * __Anchoveta (Atacama-Coquimbo):__
