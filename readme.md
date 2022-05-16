@@ -27,7 +27,7 @@ OP3: La dinámica del reclutamiento considera una relación stock-recluta del ti
 
 OP4: Cambios de régimen en el reclutamiento, según dos estados determinados con la técnica Hidden Markov Model.
 
-![Ejemplo de aplicación de EEM para evaluar la estrategia de explotación monoespecífica en pesquerías de peces pelágicos pequeños](MOpelagicos_EsquemaTrabajo.png)
+![](MOpelagicos_EsquemaTrabajo.png)
 
 
 * __Anchoveta (Atacama-Coquimbo):__
