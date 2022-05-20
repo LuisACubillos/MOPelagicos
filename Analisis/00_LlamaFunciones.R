@@ -1,4 +1,4 @@
-code_dir <- "./R/"
+code_dir <- "./Rfun/"
 file_path <- list.files(code_dir,full.names = T)
 for(f_path in file_path){source(f_path,encoding = "UTF-8")}
 
